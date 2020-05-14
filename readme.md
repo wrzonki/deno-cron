@@ -7,7 +7,7 @@
 
 
 ```ts
-import { Cron } from "https://github.com/wrzonki/deno-cron/blob/master/cron.ts";
+import { Cron } from "https://raw.githubusercontent.com/wrzonki/deno-cron/master/cron.ts";
 
 let cron = new Cron();
 cron.start();
