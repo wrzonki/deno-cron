@@ -1,0 +1,20 @@
+{
+  "name": "crone",
+  "version": "0.0.1",
+  "description": "Crone - cron scheduler for Deno",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wrzonki/deno-crone"
+  },
+  "keywords": [
+    "cron",
+    "crone",
+    "deno"
+  ],
+  "author": "Paweł Wrzosek && Deno community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wrzonki/deno-crone/issues"
+  },
+  "homepage": "https://github.com/wrzonki/deno-crone#readme"
+}
